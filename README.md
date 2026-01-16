@@ -1,0 +1,2 @@
+# basebot
+discord base bot
