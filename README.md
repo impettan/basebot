@@ -11,7 +11,7 @@ discord.js v14
 
 # 必要設定等
 
-npm install node.js  
+npm install discord.js  
 npm install doenv  
 
 .env.exampleを参考に各所設定し  
