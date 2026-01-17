@@ -3,13 +3,13 @@
 基本的な機能しか備えていないdisocrd botです。  
 肉付けすればある程度つくれます。
 
-#動作環境
+# 動作環境
 
 Node.js v18  
 discord.js v14  
 *WSL2 Arch linuxで作成、テストしています。  
 
-#必要設定等
+# 必要設定等
 
 npm install node.js  
 npm install doenv  
