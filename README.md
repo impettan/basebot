@@ -1,9 +1,18 @@
-# ディスコードのおおよそのベースとして使えるbotです。
-まぁ基本的に根本は変わらないかと。  
-肉付けしましょう。  
+# 概要
 
-# How to settings
-私はWSL2-Arch linuxで動かしてます。  
+基本的な機能しか備えていないdisocrd botです。  
+肉付けすればある程度つくれます。
 
-npm install discord.js
+#動作環境
+
+Node.js v18  
+discord.js v14  
+*WSL2 Arch linuxで作成、テストしています。  
+
+#必要設定等
+
+npm install node.js  
 npm install doenv  
+
+.env.exampleを参考に各所設定し  
+.envとして保存してください。
