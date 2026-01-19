@@ -5,8 +5,9 @@
 
 # 動作環境
 
-Node.js v18  
+Node.js v25.2.1  
 discord.js v14  
+doenv v17  
 *WSL2 Arch linuxで作成、テストしています。  
 
 # 必要設定等
