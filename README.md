@@ -13,7 +13,7 @@ doenv v17
 # 必要設定等
 
 npm install discord.js  
-npm install doenv  
+npm install dotenv  
 
 .env.exampleを参考に各所設定し  
 .envとして保存してください。
